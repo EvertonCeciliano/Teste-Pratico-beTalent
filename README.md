@@ -51,7 +51,7 @@ src/
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/betalent-teste.git
+git clone https://github.com/seu-usuario/betalent-teste.git](https://github.com/EvertonCeciliano/Teste-Pratico-beTalent.git
 ```
 
 2. Instale as dependências
@@ -136,10 +136,10 @@ npm install -g json-server
 
 3. Inicie o JSON Server na pasta onde está o `db.json`:
 ```bash
-json-server --watch db.json --port 3001
+json-server --watch db.json --port 3000
 ```
 
-4. A API estará rodando em `http://localhost:3001/employees`
+4. A API estará rodando em `http://localhost:3000/employees`
 
 Agora seu projeto está pronto para consumir a API fake do JSON Server! 🎉
 
